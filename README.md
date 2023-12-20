@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @xuedl
-- 👀 I’m interested in robotics
-- 📫 How to reach me: dlxue23@outlook.com
+- 👋 Hi, I’m @dungloi
+- 👀 I’m interested in Robotics
+- 📫 How to reach me: donglai.xue@outlook.com
