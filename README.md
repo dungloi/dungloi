@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @dungloi
-- 👀 I’m interested in Robotics
+- 👀 I’m interested in 3D scene generation
 - 📫 How to reach me: donglai.xue@outlook.com
