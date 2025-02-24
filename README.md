@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @dungloi
-- 👀 I’m interested in animation and scene rendering & generation
+- 👀 I’m interested in ROBOTICS
 - 📫 How to reach me: donglai.xue@zju.edu.cn
